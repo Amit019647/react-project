@@ -1,0 +1,8 @@
+.person{
+    width:50%;
+    margin: 14px auto;/*ver hor */
+    border:2px solid black;
+    box-shadow: 0 5px 7px rgb(75, 70, 70);/*rad blur_rad spread_rad color*/
+    padding: 20px;
+    text-align: center;/*used to center the text inside box*/
+}
